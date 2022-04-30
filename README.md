@@ -2,7 +2,7 @@
 - 👀 I’m interested in .coding..
 - 🌱 I’m currently learning ..htlm and css, java.
 - 💞️ I’m looking to collaborate on .software world..
-- 📫 How to reach me .by email..
+- 📫 How to reach me .by email..dinhhlan@gmail.com
 
 <!---
 dinhhlan/dinhhlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
