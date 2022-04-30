@@ -1,0 +1,27 @@
+
+	:root {
+		font-family: Helvetica;
+		font-size: 14px;
+		 margin: 20px auto; 
+	    width: 400px ; 
+  }
+  
+  * {
+		font: inherit;
+		background-color: rgb(20, 65, 105); 
+  }
+  
+  #meme-canvas {
+		width: 800px;
+  }
+	
+   .meme-generator input { 
+	  width: 100%; 
+	  box-sizing: border-box; 
+	  margin-bottom: 20px;
+	 }
+	#meme { 
+   width: 100%;
+	margin: 100px auto; 
+	 width: 300px ; 
+	}
